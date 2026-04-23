@@ -1,4 +1,4 @@
-# 🚀 Siddharth Metkari | AI Systems Engineer
+# 🚀 Siddharth Metkari 
 
 <div align="center">
 
