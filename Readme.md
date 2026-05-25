@@ -29,7 +29,7 @@ I build **production-grade systems** combining:
 
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai)
 ![ML Engineer](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow)
-![Backend Engineer](https://img.shields.io/badge/Backend%20Engineer-0A192F?style=for-the-badge&logo=node.js)
+![Full Stack Developer](https://img.shields.io/badge/Backend%20Engineer-0A192F?style=for-the-badge&logo=node.js)
 ![Systems Engineer](https://img.shields.io/badge/Distributed%20Systems-1F2937?style=for-the-badge&logo=apachekafka)
 
 </div>
