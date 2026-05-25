@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+System+Thinker;Building+Scalable+AI+Systems+for+Real-World+Impact;Healthcare+AI+%7C+Distributed+Systems+%7C+ML+Engineering;From+Code+to+Production+to+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems+for+Real-World+Impact;Healthcare+AI+%7C+Distributed+Systems+%7C+ML+Engineering;From+Code+to+Production+to+Impact" />
 
 <img src="https://komarev.com/ghpvc/?username=Siddharth-AIML&style=for-the-badge&color=blue" />
 
