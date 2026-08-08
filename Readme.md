@@ -155,23 +155,6 @@ Problem → Data → Model → API → System → Scale → Impact
 
 ---
 
-# 🗺️ Roadmap
-
-### ✅ Phase 1: Full Stack  
-✔️ Completed  
-
-### ✅ Phase 2: Backend + AI  
-✔️ Completed  
-
-### 🔄 Phase 3: ML Systems  
-🚧 In Progress  
-
-### 🚀 Phase 4: Scale & Impact  
-- Production AI systems  
-- Real-world deployment  
-
----
-
 # 💡 Philosophy
 
 > "Build systems that scale. Solve problems that matter."
@@ -187,8 +170,7 @@ Problem → Data → Model → API → System → Scale → Impact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Siddharth-AIML)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Siddharth-AIML) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-metkari-1613582b6)
 </div>
 
 ---
