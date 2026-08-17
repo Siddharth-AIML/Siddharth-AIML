@@ -142,19 +142,6 @@ Problem → Data → Model → API → System → Scale → Impact
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siddharth-AIML&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-AIML&theme=tokyonight" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-AIML&theme=react-dark" width="100%" />
-
-</div>
-
----
-
 # 💡 Philosophy
 
 > "Build systems that scale. Solve problems that matter."
